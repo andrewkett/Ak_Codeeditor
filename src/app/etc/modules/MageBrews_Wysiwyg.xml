@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <MageBrews_Wysiwyg>
+            <active>true</active>
+            <codePool>local</codePool>
+            <depends></depends>
+        </MageBrews_Wysiwyg>
+    </modules>
+</config>

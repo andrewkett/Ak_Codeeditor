@@ -1,0 +1,15 @@
+{
+    "name": "MageBrews/Wysiwyg",
+    "license": "OSL-3.0",
+    "type": "magento-module",
+    "description": "Improvements to Magento WYSIWYG editor",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    },
+    "authors":[
+        {
+            "name":"andrew kett",
+            "email":"ajkett@gmail.com"
+        }
+    ]
+}
