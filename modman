@@ -1,3 +1,3 @@
-src/app/code/local/MageBrews/Wysiwyg    app/code/local/MageBrews/Wysiwyg
-src/app/etc/modules/*                   app/etc/modules/
-src/js/tiny_mce/plugins/codemagic     js/tiny_mce/plugins/codemagic
+src/app/code/local/Ak/Wysiwyg       app/code/local/Ak/Wysiwyg
+src/app/etc/modules/*               app/etc/modules/
+src/js/tiny_mce/plugins/codemagic   js/tiny_mce/plugins/codemagic

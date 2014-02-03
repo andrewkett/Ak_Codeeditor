@@ -1,6 +1,6 @@
 <?php
 
-class MageBrews_Wysiwyg_Model_Observer {
+class Ak_Wysiwyg_Model_Observer {
 
 
     public function test(Varien_Event_Observer $observer)

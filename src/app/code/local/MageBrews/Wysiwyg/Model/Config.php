@@ -1,6 +1,6 @@
 <?php
 
-class MageBrews_Wysiwyg_Model_Config extends Varien_Object
+class Ak_Wysiwyg_Model_Config extends Varien_Object
 {
 
     public function getPluginSettings($config)
