@@ -7,7 +7,7 @@ class Ak_Wysiwyg_Model_Observer {
     {
         $config = $observer->getEvent()->getConfig();
 
-        $settings = Mage::getModel('magebrews_wysiwyg/config')->getPluginSettings($config);
+        $settings = Mage::getModel('ak_wysiwyg/config')->getPluginSettings($config);
         $config->addData($settings);
 
         return $this;
