@@ -8,13 +8,13 @@
     <global>
         <models>
             <ak_wysiwyg>
-                <class>MageBrews_Wysiwyg_Model</class>
+                <class>Ak_Wysiwyg_Model</class>
             </ak_wysiwyg>
         </models>
         <resources>
             <ak_wysiwyg_setup>
                 <setup>
-                    <module>MageBrews_Wysiwyg</module>
+                    <module>Ak_Wysiwyg</module>
                 </setup>
             </ak_wysiwyg_setup>
         </resources>
