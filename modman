@@ -1,3 +1,5 @@
-src/app/code/local/Ak/Wysiwyg       app/code/local/Ak/Wysiwyg
-src/app/etc/modules/*               app/etc/modules/
-src/js/tiny_mce/plugins/codemagic   js/tiny_mce/plugins/codemagic
+src/app/code/communtity/Ak/Codeeditor      	app/code/communtity/Ak/Codeeditor
+src/app/etc/modules/*               	    app/etc/modules/
+src/js/ace   				                js/ace
+src/js/codeeditor			                src/js/codeeditor
+src/skin/adminhtml/default/default          skin/adminhtml/default/default

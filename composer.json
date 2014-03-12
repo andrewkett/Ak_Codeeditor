@@ -1,8 +1,8 @@
 {
-    "name": "andrewkett/wysiwyg",
+    "name": "andrewkett/codeeditor",
     "license": "OSL-3.0",
     "type": "magento-module",
-    "description": "Improvements to Magento WYSIWYG editor",
+    "description": "Adds ace editor functionality to magento admin",
     "require": {
         "magento-hackathon/magento-composer-installer": "*"
     },
