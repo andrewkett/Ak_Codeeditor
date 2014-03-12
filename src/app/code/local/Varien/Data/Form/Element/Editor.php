@@ -135,7 +135,6 @@ class Varien_Data_Form_Element_Editor extends Varien_Data_Form_Element_Textarea
 
 //    /**
 //    @todo move out of here so this file doesnt need to be overridden
-//    @todo store in editors array based on element id so we can add multiple editors to the page
 //    **/
 
     eManager = new CodeEditor.Manager();

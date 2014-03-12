@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <config>
     <modules>
-        <Ak_Wysiwyg>
+        <Ak_Codeeditor>
             <active>true</active>
-            <codePool>local</codePool>
+            <codePool>community</codePool>
             <depends>
 
             </depends>
-        </Ak_Wysiwyg>
+        </Ak_Codeeditor>
     </modules>
 </config>

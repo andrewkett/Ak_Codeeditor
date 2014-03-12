@@ -1,5 +1,4 @@
 <?xml version="1.0"?>
-
 <layout>
     <default>
         <reference name="head">
@@ -7,9 +6,6 @@
             <action method="addJs"><script>codeeditor/codeeditor.js</script></action>
             <action method="addJs"><script>ace/src-noconflict/ace.js</script></action>
             <action method="addJs"><script>ace/src-noconflict/ext-language_tools.js</script></action>
-
-
-
         </reference>
     </default>
 </layout>

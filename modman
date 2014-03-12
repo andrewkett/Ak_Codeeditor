@@ -1,5 +1,7 @@
-src/app/code/communtity/Ak/Codeeditor      	app/code/communtity/Ak/Codeeditor
-src/app/etc/modules/*               	    app/etc/modules/
-src/js/ace   				                js/ace
-src/js/codeeditor			                src/js/codeeditor
-src/skin/adminhtml/default/default          skin/adminhtml/default/default
+src/app/code/community/Ak/Codeeditor      	                app/code/community/Ak/Codeeditor
+src/app/code/local/Varien/Data/Form/Element/Editor.php      app/code/local/Varien/Data/Form/Element/Editor.php
+src/app/etc/modules/*               	                    app/etc/modules/
+src/app/design/adminhtml/default/default/layout/codeeditor.xml      app/design/adminhtml/default/default/layout/codeeditor.xml
+src/js/ace   				                                js/ace
+src/js/codeeditor			                                js/codeeditor
+src/skin/adminhtml/default/default/codeeditor               skin/adminhtml/default/default/codeeditor

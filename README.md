@@ -1,1 +1,1 @@
-Magento extension to improve the built in admin WYSIWYG editor
+Integrates [Ace Editor](http://ace.c9.io/) into Magentos admin UI for a better admin experience.
